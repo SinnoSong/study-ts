@@ -12,3 +12,4 @@ function fancyDate(this: Date) {
 }
 console.log(fancyDate.call(new Date()));
 // fancyDate();
+export {};
